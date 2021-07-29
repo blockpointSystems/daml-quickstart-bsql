@@ -1,0 +1,187 @@
+15:34:16.265 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+15:34:23.062 [pool-1-thread-1] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+15:34:23.074 [pool-1-thread-1] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 6739caf7-6095-44c4-a1cb-de7808aae500, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+07:21:49.134 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+07:21:58.015 [pool-1-thread-3] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+07:21:58.028 [pool-1-thread-3] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 35641fb6-c809-49d8-883e-b95b35117e4b, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+07:57:25.701 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+07:57:31.871 [pool-1-thread-4] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+07:57:31.871 [pool-1-thread-4] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = b857afb4-d102-4954-954c-e5af7085c934, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+08:14:26.698 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+08:14:33.426 [pool-1-thread-2] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+08:14:33.440 [pool-1-thread-2] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 44f0a5d4-92b3-418f-872e-5d3c99f82615, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+10:15:14.535 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+10:15:21.190 [pool-1-thread-2] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+10:15:21.204 [pool-1-thread-2] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = c06f1637-6ee0-4c6f-b34b-eb00358d6b7e, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+10:51:41.299 [sandbox-akka.actor.default-dispatcher-5] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+10:51:49.213 [pool-1-thread-1] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+10:51:49.246 [pool-1-thread-1] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 91adb15f-e957-4b38-89f2-f09e47958230, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+10:59:06.799 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+10:59:14.776 [pool-1-thread-1] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+10:59:14.806 [pool-1-thread-1] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = eccdaa37-5244-4bcc-b346-a9db5906a4ea, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+11:01:56.895 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+11:02:03.765 [pool-1-thread-1] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+11:02:03.779 [pool-1-thread-1] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 0858cdc8-fa94-488a-8fbd-c366001c7595, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+11:07:04.038 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+11:07:16.629 [pool-1-thread-4] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+11:07:16.664 [pool-1-thread-4] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 9118a3d3-ac0d-4b40-b2c4-4a34d9d4cb02, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+11:12:48.627 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+11:12:55.253 [pool-1-thread-3] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+11:12:55.300 [pool-1-thread-3] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 3dec2ca5-aabd-4bce-a683-ccbba3c25d4a, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+14:10:00.657 [daml.index.db.threadpool.connection.api-server-6] ERROR c.d.platform.store.dao.DbDispatcher - Exception while executing SQL query. Rolled back. (context: {metric=get_ledger_end}) 
+java.sql.SQLTransientConnectionException: daml.index.db.connection.api-server - Connection is not available, request timed out after 1230ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:676)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:190)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:155)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at com.daml.platform.store.dao.HikariJdbcConnectionProvider.runSQL(HikariJdbcConnectionProvider.scala:142)
+	at com.daml.platform.store.dao.DbDispatcher.$anonfun$executeSql$2(DbDispatcher.scala:56)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at com.codahale.metrics.InstrumentedExecutorService$InstrumentedRunnable.run(InstrumentedExecutorService.java:180)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+14:10:08.779 [sandbox-akka.actor.default-dispatcher-10] WARN  a.s.s.RestartWithBackoffSource - Restarting graph due to failure. stack_trace: 
+java.sql.SQLTransientConnectionException: daml.index.db.connection.api-server - Connection is not available, request timed out after 1230ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:676)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:190)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:155)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at com.daml.platform.store.dao.HikariJdbcConnectionProvider.runSQL(HikariJdbcConnectionProvider.scala:142)
+	at com.daml.platform.store.dao.DbDispatcher.$anonfun$executeSql$2(DbDispatcher.scala:56)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at com.codahale.metrics.InstrumentedExecutorService$InstrumentedRunnable.run(InstrumentedExecutorService.java:180)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+ akkaAddress=akka://sandbox, sourceThread=sandbox-akka.actor.default-dispatcher-4, akkaSource=RestartWithBackoffSource(akka://sandbox), sourceActorSystem=sandbox, akkaTimestamp=21:10:06.513UTC
+14:39:22.701 [daml.index.db.threadpool.connection.api-server-3] ERROR c.d.platform.store.dao.DbDispatcher - Exception while executing SQL query. Rolled back. (context: {metric=get_ledger_end}) 
+java.sql.SQLTransientConnectionException: daml.index.db.connection.api-server - Connection is not available, request timed out after 624ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:676)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:190)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:155)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at com.daml.platform.store.dao.HikariJdbcConnectionProvider.runSQL(HikariJdbcConnectionProvider.scala:142)
+	at com.daml.platform.store.dao.DbDispatcher.$anonfun$executeSql$2(DbDispatcher.scala:56)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at com.codahale.metrics.InstrumentedExecutorService$InstrumentedRunnable.run(InstrumentedExecutorService.java:180)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+14:39:23.685 [sandbox-akka.actor.default-dispatcher-11] WARN  a.s.s.RestartWithBackoffSource - Restarting graph due to failure. stack_trace: 
+java.sql.SQLTransientConnectionException: daml.index.db.connection.api-server - Connection is not available, request timed out after 624ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:676)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:190)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:155)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at com.daml.platform.store.dao.HikariJdbcConnectionProvider.runSQL(HikariJdbcConnectionProvider.scala:142)
+	at com.daml.platform.store.dao.DbDispatcher.$anonfun$executeSql$2(DbDispatcher.scala:56)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at com.codahale.metrics.InstrumentedExecutorService$InstrumentedRunnable.run(InstrumentedExecutorService.java:180)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+ akkaAddress=akka://sandbox, sourceThread=sandbox-akka.actor.default-dispatcher-4, akkaSource=RestartWithBackoffSource(akka://sandbox), sourceActorSystem=sandbox, akkaTimestamp=21:39:23.595UTC
+11:53:40.238 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+11:53:47.256 [pool-1-thread-1] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+11:53:47.271 [pool-1-thread-1] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = c944fd01-5167-425f-8dea-115cefd7b030, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+12:59:49.063 [sandbox-akka.actor.default-dispatcher-5] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+12:59:55.670 [pool-1-thread-3] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+12:59:55.681 [pool-1-thread-3] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = b3e12a65-3f5d-4a44-a4da-d221b0185ad5, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+07:39:54.258 [sandbox-akka.actor.default-dispatcher-5] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+07:40:01.045 [pool-1-thread-1] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+07:40:01.061 [pool-1-thread-1] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = e48bd75a-5a17-4fd0-af19-e770651633c9, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+07:41:44.246 [sandbox-akka.actor.default-dispatcher-5] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+07:41:50.936 [pool-1-thread-1] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+07:41:50.952 [pool-1-thread-1] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = aae5c51a-5545-4327-b025-70152a3674ee, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+07:53:40.280 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+07:53:46.990 [pool-1-thread-3] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+07:53:47.001 [pool-1-thread-3] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = e306b62a-0683-4c30-b1a0-45fad0381924, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+10:35:30.631 [sandbox-akka.actor.default-dispatcher-5] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+10:35:37.274 [pool-1-thread-2] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+10:35:37.286 [pool-1-thread-2] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 4eecb65c-3b4d-4f8a-95c3-3ec369ea623c, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+23:54:44.872 [daml.index.db.threadpool.connection.api-server-7] ERROR c.d.platform.store.dao.DbDispatcher - Exception while executing SQL query. Rolled back. (context: {metric=get_ledger_end}) 
+java.sql.SQLTransientConnectionException: daml.index.db.connection.api-server - Connection is not available, request timed out after 485ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:676)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:190)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:155)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at com.daml.platform.store.dao.HikariJdbcConnectionProvider.runSQL(HikariJdbcConnectionProvider.scala:142)
+	at com.daml.platform.store.dao.DbDispatcher.$anonfun$executeSql$2(DbDispatcher.scala:56)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at com.codahale.metrics.InstrumentedExecutorService$InstrumentedRunnable.run(InstrumentedExecutorService.java:180)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+23:54:46.828 [sandbox-akka.actor.default-dispatcher-8] WARN  a.s.s.RestartWithBackoffSource - Restarting graph due to failure. stack_trace: 
+java.sql.SQLTransientConnectionException: daml.index.db.connection.api-server - Connection is not available, request timed out after 485ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:676)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:190)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:155)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at com.daml.platform.store.dao.HikariJdbcConnectionProvider.runSQL(HikariJdbcConnectionProvider.scala:142)
+	at com.daml.platform.store.dao.DbDispatcher.$anonfun$executeSql$2(DbDispatcher.scala:56)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at com.codahale.metrics.InstrumentedExecutorService$InstrumentedRunnable.run(InstrumentedExecutorService.java:180)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+ akkaAddress=akka://sandbox, sourceThread=sandbox-akka.actor.default-dispatcher-9, akkaSource=RestartWithBackoffSource(akka://sandbox), sourceActorSystem=sandbox, akkaTimestamp=06:54:46.348UTC
+07:17:48.305 [Thread-1] ERROR com.daml.resources.ProgramResource - Failed to stop successfully. 
+java.util.concurrent.TimeoutException: Futures timed out after [10 seconds]
+	at scala.concurrent.impl.Promise$DefaultPromise.ready(Promise.scala:259)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:263)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:223)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:57)
+	at scala.concurrent.Await$.result(package.scala:146)
+	at com.daml.resources.ProgramResource.stop$1(ProgramResource.scala:33)
+	at com.daml.resources.ProgramResource.$anonfun$run$5(ProgramResource.scala:41)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+12:12:24.708 [sandbox-akka.actor.default-dispatcher-5] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+12:12:29.323 [pool-1-thread-1] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+12:12:29.335 [pool-1-thread-1] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 3b6b8d0c-e885-47ec-b32c-99384195cf80, port = 6865, dar file = List(), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+12:17:42.507 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+12:17:49.158 [pool-1-thread-2] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+12:17:49.170 [pool-1-thread-2] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = cdd4a1a8-7e90-4cf4-898a-f31d2a31e22a, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+12:22:35.901 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+12:22:41.986 [pool-1-thread-3] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+12:22:41.996 [pool-1-thread-3] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 235279ba-4004-4f5d-a173-8befef582c01, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
+07:19:37.927 [sandbox-akka.actor.default-dispatcher-4] INFO  akka.event.slf4j.Slf4jLogger - Slf4jLogger started 
+07:19:44.625 [pool-1-thread-1] INFO  c.d.p.apiserver.LedgerApiServer - Listening on localhost:6865 over plain text. 
+07:19:44.690 [pool-1-thread-1] INFO  com.daml.platform.sandboxnext.Runner - Initialized sandbox version 1.13.1 with ledger-id = 5ed76e56-4c3e-4ec3-8914-7b7277e3fd49, port = 6865, dar file = List(.daml\dist\quickstart-0.0.1.dar), time mode = wall-clock time, ledger = in-memory, auth-service = AuthServiceWildcard$, contract ids seeding = strong 
